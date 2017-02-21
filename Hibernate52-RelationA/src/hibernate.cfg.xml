@@ -77,4 +77,3 @@
 		<mapping class="org.crazyit.app.oneNcompositeId.Address"/> -->
 	</session-factory>
 </hibernate-configuration>
-
