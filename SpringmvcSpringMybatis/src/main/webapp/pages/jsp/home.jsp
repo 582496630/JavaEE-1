@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>SSJ-HomePage</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
-	<a href="/findbyusername/zhangsan">获取用用户名</a>
-	<a href="/findbypassword/123654">获取用密码</a>
+	<h1>Home,from forward</h1>
 </body>
 </html>
